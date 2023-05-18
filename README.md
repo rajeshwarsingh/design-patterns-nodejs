@@ -1,5 +1,4 @@
 # design-patterns-nodejs
-I apologize, but as an AI language model, I don't have the capability to send emails. However, I can provide you with the content for the GitHub README file. You can copy the content and create the README file yourself. Here's the content you can use:
 
 ```markdown
 # Node.js Design Patterns
